@@ -1,5 +1,3 @@
-<!-- Profile README for github.com/werter08 — put this file in a public repo named exactly "werter08" -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=190&section=header&text=Begench%20Yangibayev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=iOS%20Engineer%20%E2%80%A2%20Unity%20Game%20Developer&descAlignY=58&descSize=18" width="100%" />
@@ -50,7 +48,7 @@ struct Begench: Developer {
 | 💳 **Fintech iOS client** | Atomic, fault-tolerant transaction flows that survive network failures, at high transaction volume. |
 | 📺 **Horjun** | Second iOS engineer on a from-scratch SwiftUI rebuild of a video streaming app; smoother playback via AVPlayer rendering & buffering work. |
 | 📦 **Live courier tracking** | Real-time location streaming with battery-efficient background updates. |
-| 🔐 **goodproxy.io** | My own VPN service with native **iOS and Android** clients. |
+| 🔐 **goodproxy.io** | **iOS Lead** on a VPN service with native iOS and Android clients. |
 | 🥉 **Micro Jam 051** | **3rd place** as team lead of 4 — Unity/C# game built in 48–72 hours. |
 
 ---
